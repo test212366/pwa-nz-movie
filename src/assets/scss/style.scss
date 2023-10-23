@@ -1,0 +1,30 @@
+@import "blocks/_vars.scss";
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $bg;
+    font-size: 1.4rem;
+    color: $white;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.main {
+    transition: .6s ease all;
+    overflow-x: hidden;
+}
+@import "blocks/_header";
+@import "blocks/_scroll";
+@import "blocks/_container";
+@import "blocks/_movies";
+@import "blocks/_preloader";
+@import "blocks/_description";
+@import "blocks/_search";
+@import "blocks/_fulters";
+@import "blocks/res";

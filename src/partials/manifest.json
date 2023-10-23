@@ -1,0 +1,10 @@
+{
+  "name": "pwa-nz",
+  "short_name": "pwa-nz",
+  "theme_color": "#1a1f3d",
+  "background_color": "#13172d",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "."
+}

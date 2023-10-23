@@ -1,0 +1,65 @@
+.results__fulter {
+  position: relative;
+  transition: .3s ease all;
+  transform: translateY(100%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color:  #13172d;
+  -webkit-box-shadow: 0px 0px 41px 16px rgba(0, 0, 0, 0.21);
+  -moz-box-shadow: 0px 0px 41px 16px rgba(0, 0, 0, 0.21);
+  box-shadow: 0px 0px 41px 16px rgba(0, 0, 0, 0.21);
+  z-index: 18;
+}
+.activeFulter {
+  transform: translateY(0);
+}
+.results__fulter-title {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+}
+.results__fulter-wrapper {
+  margin-top: 6rem;
+  padding: 1rem;
+}
+.back {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  transform: translate(66rem, 7.5rem);
+  height: 4rem;
+  width: 4rem;
+  &:hover .backArrow{
+    cursor: pointer;
+    fill: #007bff;
+  }
+}
+path {
+  z-index: 0;
+}
+.backArrow {
+  transition: .3s ease all;
+  fill: #a5a1b2;
+}
+.results__fulter-movies {
+  transition: .3s ease all;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 87vh;
+  overflow: auto;
+}
+.results__fulter-movies::-webkit-scrollbar {
+  width: 1rem;
+}
+.results__fulter-movies::-webkit-scrollbar-track {
+  background-color: #0a1226;
+}
+.results__fulter-movies::-webkit-scrollbar-thumb {
+  border-radius: 9px;
+  background-color: rgba(56, 56, 56, 0.56);
+}

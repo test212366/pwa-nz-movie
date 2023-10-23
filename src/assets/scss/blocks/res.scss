@@ -1,0 +1,655 @@
+@media screen and (max-width: 1880px) {
+  .resa {
+    justify-content: center;
+  }
+  .description__wrapper-trailer {
+    position: static;
+    transform: translateX(0);
+    padding-top: 1rem;
+  }
+  .back {
+    transform: translate(30rem, 7.5rem);
+  }
+  .swiper-button-next {
+    transform: translate(0rem, -50%);
+  }
+  .swiper-button-prev {
+    transform: translate(0rem, -50%);
+  }
+}
+@media screen and (max-width: 1150px) {
+  .smallMargin {
+    margin: 2rem 2rem 6rem 2rem;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .close {
+    transform: translateX(3rem);
+  }
+  .back {
+    transform: translate(10rem, 7.5rem);
+  }
+}
+@media screen and (max-width: 1010px) {
+  .noFind {
+    width: 40rem;
+    height: 25rem;
+  }
+  .youtube {
+    width: 40rem;
+    height: 25rem;
+  }
+}
+@media screen and (max-width: 900px) {
+  #searchForm {
+    width: 70rem;
+    margin: 0 auto;
+  }
+  .close {
+    transform: translateX(-5rem);
+  }
+  .wrapper-info {
+    padding: 7rem 3rem 3rem 3rem;
+  }
+}
+@media screen and (max-width: 870px) {
+  .overlay {
+    width: 17rem;
+    height: 25rem;
+  }
+  .preview {
+    width: 17rem;
+    height: 25rem;
+  }
+  .see-more {
+    width: 17rem;
+    height: 25rem;
+  }
+  .see-morePopular {
+    width: 17rem;
+    height: 25rem;
+    margin: 0;
+  }
+  .see-moreFulters {
+    width: 17rem;
+    height: 25rem;
+    margin: 0;
+  }
+  .search__title-title {
+    margin-left: 4rem;
+  }
+  .description__Pwa-nz {
+    margin: 0;
+  }
+  .movies__filters {
+    margin-top: 0rem;
+  }
+}
+@media screen and (max-width: 800px) {
+  .close {
+    transform: translateX(-10rem);
+  }
+  #searchForm {
+    width: 60rem;
+  }
+  .description__wrapper-title {
+    font-size: 2.6rem;
+    line-height: 3rem;
+  }
+  .description__Pwa-nz-small {
+    max-width: 100%;
+  }
+  .smallMargin {
+    margin: 1rem 1rem 5rem 1rem;
+  }
+  .youtube {
+    width: 35rem;
+    height: 20rem;
+  }
+  .noFind {
+    width: 35rem;
+    height: 20rem;
+  }
+}
+@media screen and (max-width: 740px) {
+  .close {
+    transform: translateX(-15rem);
+  }
+  #searchForm {
+    width: 60rem;
+  }
+  .description__Pwa-nz-title {
+    font-size: 2rem;
+  }
+  .swiper-container {
+    height: auto;
+    margin-bottom: 3rem;
+  }
+  .description__Pwa-nz-small {
+    font-size: 1.3rem;
+  }
+  .smallMargin {
+    margin: 1rem 1rem 5rem 1rem;
+  }
+  .overlay {
+    width: 15rem;
+    height: 22rem;
+  }
+  .preview {
+    width: 15rem;
+    height: 22rem;
+  }
+  .see-more {
+    width: 15rem;
+    height: 22rem;
+  }
+  .see-morePopular {
+    width: 15rem;
+    height: 22rem;
+    margin: 0;
+  }
+  .see-moreFulters {
+    width: 15rem;
+    height: 22rem;
+    margin: 0;
+  }
+  .movies__recomend-title {
+    font-size: 2.4rem;
+  }
+  .movies__recomend-small {
+    font-size: 1.5rem;
+  }
+  .raiting {
+    font-size: 2rem;
+  }
+  .year {
+    font-size: 1.5rem;
+  }
+  .filters {
+    font-size:1.2rem;
+  }
+  #searchForm {
+    transform: translateX(-5rem);
+  }
+  .results {
+    width: 70rem;
+    padding-top: 4rem;
+  }
+  span {
+    font-size: 1.3rem;
+  }
+  .smallMargin {
+    margin: 0 0 4rem 0;
+  }
+}
+@media screen and (max-width: 700px) {
+  .close {
+    transform: translateX(-24rem);
+  }
+  #searchForm {
+    width: 52rem;
+    transform: translateX(-9rem);
+  }
+  .results__fulter-title {
+    font-size: 2rem;
+    padding: 1rem;
+  }
+  .wrapper-info {
+    padding: 7rem 1.5rem 1.5rem 1.5rem;
+  }
+}
+@media screen and (max-width: 651px) {
+  .overlay {
+    width: 13rem;
+    height: 19rem;
+  }
+  .preview {
+    width: 13rem;
+    height: 19rem;
+  }
+  .see-more {
+    width: 13rem;
+    height: 19rem;
+  }
+  .chose {
+    font-size: 1rem;
+  }
+  .description__Pwa-nz-small {
+    font-size: 1.2rem;
+  }
+  .smallMargin {
+    margin: 0;
+  }
+  .nav__items-sub {
+    transform: translate(-20rem, 5rem);
+  }
+  .see-moreFulters {
+    width: 13rem;
+    height: 19rem;
+    margin: 0;
+  }
+  .see-morePopular {
+    width: 13rem;
+    height: 19rem;
+    margin: 0;
+  }
+  .movies__recomend-title {
+    font-size: 2.4rem;
+  }
+  .swiper-container {
+    margin-bottom: 2rem;
+  }
+  .slide {
+    width: 16rem;
+    height: 26rem;
+  }
+  .results {
+    width: 60rem;
+  }
+  .wrapper-info::-webkit-scrollbar {
+    width: .6rem;
+  }
+  .results__fulter-movies::-webkit-scrollbar {
+    width: .6rem;
+  }
+  .results::-webkit-scrollbar {
+    width: .6rem;
+  }
+  .header__logo {
+    font-size: 2rem;
+  }
+  .search__title-title {
+    font-size: 2.5rem;
+  }
+  .search__title-input {
+    font-size: 1.5rem;
+  }
+  .description__wrapper-age {
+    font-size: 1.5rem;
+  }
+  .description__wrapper-type {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 605px) {
+  .close {
+    transform: translateX(-30rem);
+  }
+  #searchForm{
+    width: 47rem;
+    transform: translateX(-11rem);
+  }
+  .youtube {
+    width: 30rem;
+    height: 15rem;
+  }
+  .noFind {
+    width: 30rem;
+    height: 15rem;
+  }
+  .svg {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+  .backArrow {
+    width: 3rem;
+    height: 3rem;
+    margin-top: .6rem;
+  }
+  .item {
+    font-size: 1.3rem;
+  }
+  .header{
+    padding: 1rem;
+  }
+  .header__logo_left {
+    height: 5.4rem;
+  }
+}
+@media screen and (max-width: 575px) {
+  .overlay {
+    width: 10rem;
+    height: 16rem;
+  }
+  .preview {
+    width: 10rem;
+    height: 16rem;
+  }
+  .see-more {
+    width: 10rem;
+    height: 16rem;
+  }
+  .slide {
+    width: 10rem;
+    height: 22rem;
+  }
+  .desc {
+    padding-bottom: 5rem;
+    width: 10rem;
+    height: 22rem;
+  }
+  .length {
+    font-size: 1.2rem;
+  }
+  .d-show {
+    width: 10rem;
+    height: 22rem;
+  }
+  .countries {
+    font-size: 1.3rem;
+  }
+  .slider__title {
+    font-size: 1.4rem;
+  }
+  .see__trailer {
+    font-size: 1.1rem;
+  }
+  .slider__title {
+    width: 100%;
+  }
+  .see-morePopular {
+    width: 10rem;
+    height: 22rem;
+  }
+  .movies__recomend-title {
+    font-size: 2rem;
+  }
+  .description__Pwa-nz-title {
+    font-size: 1.7rem;
+  }
+  .results__fulter-movies {
+    max-width: 50rem;
+  }
+  .small {
+  margin: 1rem;
+  }
+  .search__title-input {
+    width: 43rem;
+    transform: translateX(-2rem);
+  }
+  .close {
+    transform: translateX(-35rem);
+  }
+  .results {
+    width: 47rem;
+  }
+}
+@media screen and (max-width: 510px) {
+  .close {
+    transform: translateX(-39rem);
+  }
+  .search__title-input {
+    width: 40rem;
+  }
+  .noFind {
+    width: 26rem;
+    height: 13rem;
+    font-size: 1.7rem;
+  }
+  .youtube {
+    width: 26rem;
+    height: 13rem;
+  }
+  .swiper-button-prev {
+    height: 2rem;
+    width: 2rem;
+    &::after {
+      font-size: 2.4rem;
+    }
+  }
+  .description__Pwa-nz-title {
+    font-size: 1.5rem;
+  }
+  .wrapper-info {
+    width: auto;
+  }
+  .description__wrapper {
+
+    width: 75%;
+  }
+  .wrapper-info {
+    padding-bottom: 5rem;
+  }
+  .nav__items {
+    transform: translateX(-4rem);
+  }
+  .recomendPod li {
+    padding: .5rem;
+    transform: translate(6rem, 1rem);
+  }
+  .nav__items-sub {
+    transform: translate(-8rem, 2rem);
+  }
+  .recomendPod li{
+    width: 20rem;
+  }
+  .close {
+    transform: translate(-44rem, -1rem);
+  }
+  .search__title-input {
+    width: 35rem;
+  }
+  .nav__items-sub {
+    width: 30rem;
+  }
+  .back {
+    transform: translate(5rem, 7.5rem);
+  }
+  .swiper-button-next {
+    height: 2rem;
+    width: 2rem;
+    &::after {
+      font-size: 2.4rem;
+    }
+  }
+}
+@media screen and (max-width: 440px) {
+  .header__logo {
+    transform: translateX(-2rem);
+    font-size: 1.7rem;
+  }
+  .close {
+    font-size: 3.5rem;
+    transform: translate(-47rem, 0);
+  }
+  .search__title-input {
+    height: 3rem;
+    width: 33rem;
+  }
+  .results {
+    width: 44rem;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .header {
+    padding: .6rem;
+  }
+  .header__logo_left {
+    height: 4.9rem;
+  }
+  .svg {
+    height: 2.3rem;
+    width: 2.3rem;
+  }
+  .prevRecomend {
+    &::after {
+      transform: translateY(-7rem);
+    }
+  }
+  .nextRecomend {
+    &::after {
+      transform: translateY(-7rem);
+    }
+  }
+  .header__logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 1.5rem;
+  }
+  .nav {
+    transform: translateX(6rem);
+  }
+}
+@media screen and (max-width: 400px) {
+  .close {
+    transform: translate(-50rem, 0)
+  }
+  #searchForm {
+    width: 30rem;
+    transform: translateX(-23rem);
+  }
+  .results {
+    justify-content: left;
+    width: 38rem;
+  }
+  .search__title-title {
+    width: 3rem;
+    transform: translateX(-5rem);
+  }
+  .back {
+    transform: translate(4rem, 7.5rem);
+  }
+  .results__fulter-movies {
+    justify-content: left;
+    width: 37rem;
+  }
+  .nav {
+    width: 22rem;
+  }
+}
+@media screen and (max-width: 414px) {
+  .wrap-sear {
+    transform: translateX(1.5rem);
+  }
+  .see-morePopular {
+    width: 11rem;
+    height: 17rem;
+    margin: 1rem;
+    text-align: center;
+  }
+  .see-moreFulters {
+    width: 11rem;
+    height: 17rem;
+    margin: 1rem;
+    text-align: center;
+  }
+  .SearchSemore {
+    width: 11rem;
+    height: 17rem;
+    margin: 1rem;
+    text-align: center;
+  }
+  .overlay {
+    width: 11rem;
+    height: 17rem;
+  }
+  .preview {
+    width: 11rem;
+    height: 17rem;
+  }
+  .close {
+    transform: translate(-50rem, 0)
+  }
+  #searchForm {
+    width: 30rem;
+    transform: translateX(-23rem);
+  }
+  .results {
+    justify-content: left;
+    width: 38rem;
+    overflow-x: hidden;
+    margin-right: 0;
+    padding-bottom: 5rem;
+  }
+  .search__title-title {
+    width: 3rem;
+    transform: translateX(-5rem);
+  }
+  .back {
+    transform: translate(4rem, 7.5rem);
+  }
+  .results__fulter-movies {
+    justify-content: left;
+    width: 37rem;
+  }
+  .nav {
+    width: 22rem;
+  }
+  .description__wrapper-age {
+    font-size: 1.3rem;
+  }
+  .description__wrapper-type {
+    font-size: 1.3rem;
+  }
+}
+@media screen and (max-width: 375px) {
+  .wrap-sear {
+    transform: translateX(0rem);
+  }
+  .results {
+    transform: translateX(-1rem);
+    padding-bottom: 5rem;
+  }
+  .slide {
+    width: 12rem;
+    margin: 0 0 2rem 0;
+  }
+  .body{
+    padding-right: 0;
+  }
+  .results {
+    transform: translateX(.4rem);
+  }
+  .recomendPod li{
+    transform: translate(5rem, 1rem);
+    width: 16rem;
+  }
+  .results__fulter-movies {
+    transform: translateX(-2rem);
+  }
+  .back {
+    transform: translate(2rem, 7.5rem);
+  }
+  .search {
+    margin: 0;
+  }
+  .description__wrapper-age {
+    font-size: 1.2rem;
+  }
+  .description__wrapper-type {
+    font-size: 1.2rem;
+  }
+  .nav__items-sub {
+    transform: translate(-12rem, 2rem);
+  }
+  .recomendPod {
+    padding: 0;
+    width: 17rem;
+    transform: translate(-5rem, 3rem);
+  }
+  .recomendPod {
+    transform: translate(2rem, 2rem);
+  }
+  .description__wrapper-title {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .nav {
+   transform: translateX(4rem);
+  }
+  .item {
+    font-size: 1.2rem;
+  }
+  .nav__items-sub {
+    transform:translate(-11rem, 3rem);
+  }
+  .results {
+    width: 31rem;
+  }
+}
+
+//swiper-containerr
